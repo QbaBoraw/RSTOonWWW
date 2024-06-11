@@ -1,4 +1,4 @@
-# RSTOonWWWW
+# RSTOonWWW
 Aby przekazać stream z kamery za pomocą protokołu RTSP do playera osadzonego na stronie www przy użyciu NGINX, potrzebujesz kilku kroków. Zakładając, że masz już NGINX z modułem RTMP zainstalowany, poniżej przedstawiam ogólny plan:
 
 Instalacja NGINX z modułem RTMP:
